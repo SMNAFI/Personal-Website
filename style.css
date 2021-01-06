@@ -140,6 +140,33 @@ img{
 
 }
 
+#massage-area{
+    margin: 0;
+    height: 300px;
+    background-color: #F8F9FC;
+}
+
+#massage-area h3{
+    padding-top: 50px;
+    margin-left: 200px;
+    font-size: 30px;
+}
+
+input{
+    width: 30%;
+    padding: 10px 20px;
+    margin-left: 200px;
+    display: block;
+    border-radius: 5px;
+}
+
+textarea{
+    padding: 10px 20px;
+    width: 30%;
+    margin-left: 200px;
+    border-radius: 5px;
+}
+
 footer{
     text-align: center;
 }
