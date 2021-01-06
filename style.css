@@ -142,7 +142,7 @@ img{
 
 #massage-area{
     margin: 0;
-    height: 300px;
+    height: 330px;
     background-color: #F8F9FC;
 }
 
@@ -161,10 +161,15 @@ input{
 }
 
 textarea{
+    display: block;
     padding: 10px 20px;
     width: 30%;
     margin-left: 200px;
     border-radius: 5px;
+}
+
+#massage-area .button{
+    margin-left: 200px;
 }
 
 footer{
